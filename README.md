@@ -1,4 +1,4 @@
-[![Header](https://www.yogaspace.com.au/wp-content/uploads/2017/04/a9bbb027818536e0fd1eb038132facc6.jpg "Header")](https://eltonsolid.com/)
+[![Header](https://cdn.pixabay.com/photo/2021/01/31/07/30/brain-5966095_1280.jpg "Header")](https://eltonsolid.com/)
 <h1>Free your mind!</h1>
 <p>Welcome human! </br> I'm Elton, Fullstack developer from <b>Sao Paulo, Brazil  </b><img src="https://cdn-icons-png.flaticon.com/512/9906/9906449.png" width="30"/>
 <h3>Things I code with</h3>
